@@ -17,7 +17,7 @@
 |**주요업무 및 상세역할**||
 |**사용언어 및 개발환경**|<li>FE: HTML5, CSS3, JavaScript, Bootstrap, Thymeleaf</li><li>BE: Java, Spring, MariaDB, Amazon EC2</li>|
 |**느낀 점 및 성과**||
-|**참고자료**|<li>서비스 링크: </li><li>Github 링크: https://github.com/shinyena/doorlock</li>|
+|**참고자료**|[서비스 링크](http://sushicaptain.com), [Github 링크](https://github.com/shinyena/sushi)|
 
 |프로젝트 명|딥러닝 기반의 IoT 택배 도난 감지 시스템|
 |:---:|:---|
@@ -27,7 +27,7 @@
 |**주요업무 및 상세역할**||
 |**사용언어 및 개발환경**|Raspberry Pi, Android, Firebase, GCP, Python|
 |**느낀 점 및 성과**||
-|**참고자료**|<li>서비스 링크: </li><li>Github 링크: </li>|
+|**참고자료**|[요구분석 및 설계서](), [Github 링크]()|
 
 |프로젝트 명|BLE 기반의 모바일 출입통제 시스템|
 |:---:|:---|
@@ -37,5 +37,5 @@
 |**주요업무 및 상세역할**||
 |**사용언어 및 개발환경**|Raspberry Pi, Node.js, Flutter, MySQL, HTML5. CSS3. Javascript, Bootstrap|
 |**느낀 점 및 성과**||
-|**참고자료**|<li>서비스 링크: </li><li>Github 링크: https://github.com/shinyena/doorlock</li>|
+|**참고자료**|[요구분석 및 설계서](), [Github 링크](https://github.com/shinyena/doorlock)|
 
