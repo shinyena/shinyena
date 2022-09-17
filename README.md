@@ -1,5 +1,4 @@
 # 신예나(Daisy)
-Backend Developer
 
 
 ### About Me
