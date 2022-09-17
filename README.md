@@ -19,4 +19,5 @@
 |2020.09~2020.12|BLE 기반의 모바일 출입통제 시스템|[요구분석 및 설계서](), [Github 링크](https://github.com/shinyena/doorlock)|
 |2020.11|어린이집 홍보 웹페이지|[서비스 링크](https://pulee1076.netlify.app/), [Github 링크](https://github.com/shinyena/pulee1076)|
 
+### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yena5790)](https://solved.ac/yena5790)
