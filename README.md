@@ -35,7 +35,17 @@
 |**인력 구성**|개인 프로젝트|
 |**프로젝트 목적**||
 |**주요업무 및 상세역할**||
-|**사용언어 및 개발환경**|Raspberry Pi, Node.js, Flutter, MySQL, HTML5. CSS3. Javascript, Bootstrap|
+|**사용언어 및 개발환경**|Raspberry Pi, Node.js, Flutter, MySQL, HTML5, CSS3, Javascript, Bootstrap|
 |**느낀 점 및 성과**||
 |**참고자료**|[요구분석 및 설계서](), [Github 링크](https://github.com/shinyena/doorlock)|
+
+|프로젝트 명|어린이집 홍보 웹페이지|
+|:---:|:---|
+|**작업 기간**|2020.11|
+|**인력 구성**|개인 프로젝트|
+|**프로젝트 목적**||
+|**주요업무 및 상세역할**||
+|**사용언어 및 개발환경**|HTML5, CSS3, Bootstrap|
+|**느낀 점 및 성과**||
+|**참고자료**|[서비스 링크](https://pulee1076.netlify.app/), [Github 링크](https://github.com/shinyena/pulee1076)|
 
