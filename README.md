@@ -6,9 +6,9 @@
 - DevOps에 관심을 갖고 Cloud, CI/CD 공부 중인 개발자
 
 ### Study
-- Gachon Kakao Enterprise SW Academy(2022.09~)
-- Gachon Smart Network Service Lab(2020.07~2021.06)
-- Department of Computer Science and Engineering, Gachon University (2018.03~2022.02)
+- Gachon Kakao Enterprise SW Academy (2022.09~)
+- Gachon Smart Network Service Lab (2020.07~2021.06)
+- Gachon University, Computer Science and Engineering (2018.03~2022.02)
 
 
 
