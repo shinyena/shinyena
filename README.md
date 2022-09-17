@@ -7,6 +7,7 @@
 
 ### Skill Set
 - skill
+- [](https://solved.ac/profile/yena5790)
 
 ### Project Experience
 |프로젝트 명|레스토랑 모바일 예약 프로그램|
