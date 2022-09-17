@@ -6,7 +6,7 @@
 - DevOps에 관심을 갖고 Cloud, CI/CD 공부 중인 개발자
 
 ### Skill Set
-- 
+- skill
 
 ### Project Experience
 |프로젝트 명|BLE 기반의 모바일 출입통제 시스템|
