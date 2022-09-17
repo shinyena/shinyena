@@ -4,7 +4,7 @@
 - Java와 Spring Framework를 이용한 백엔드 개발에 관심을 가지고 있는 주니어 개발자
 - DevOps에 관심을 갖고 Cloud, CI/CD 공부 중인 주니어 개발자
 
-### :books: Study At
+### 📝 Study At
 - Gachon Kakao Enterprise SW Academy (2022.09~)
 - Gachon Smart Network Service Lab (2020.07~2021.06)
 - Gachon University, Computer Science and Engineering (2018.03~2022.02)
