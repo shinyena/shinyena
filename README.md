@@ -6,8 +6,8 @@
 - DevOps에 관심을 갖고 Cloud, CI/CD 공부 중인 개발자
 
 ### Study
-- (2022.09~) Gachon Kakao Enterprise SW Academy
-- (2018.03~2022.02) Gachon University
+- Gachon Kakao Enterprise SW Academy (2022.09~)
+- Gachon University (2018.03~2022.02)
 
 
 
