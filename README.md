@@ -9,6 +9,26 @@
 - skill
 
 ### Project Experience
+|프로젝트 명|레스토랑 모바일 예약 프로그램|
+|:---:|:---|
+|**작업 기간**|2022.01~2021.02|
+|**인력 구성**|개인 프로젝트|
+|**프로젝트 목적**||
+|**주요업무 및 상세역할**||
+|**사용언어 및 개발환경**|<li>FE: HTML5, CSS3, JavaScript, Bootstrap, Thymeleaf</li><li>BE: Java, Spring, MariaDB, Amazon EC2</li>|
+|**느낀 점 및 성과**||
+|**참고자료**|<li>서비스 링크: </li><li>Github 링크: https://github.com/shinyena/doorlock</li>|
+
+|프로젝트 명|딥러닝 기반의 IoT 택배 도난 감지 시스템|
+|:---:|:---|
+|**작업 기간**|2021.03~2021.06|
+|**인력 구성**|HW 1명, FE 1명, AI 2명|
+|**프로젝트 목적**||
+|**주요업무 및 상세역할**||
+|**사용언어 및 개발환경**|Raspberry Pi, Android, Firebase, GCP, Python|
+|**느낀 점 및 성과**||
+|**참고자료**|<li>서비스 링크: </li><li>Github 링크: </li>|
+
 |프로젝트 명|BLE 기반의 모바일 출입통제 시스템|
 |:---:|:---|
 |**작업 기간**|2020.09~2020.12|
