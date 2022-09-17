@@ -17,4 +17,4 @@
 |주요업무 및 상세역할|- Node.js기반의 서버와 Flutter기반의 모바일 앱으로 BLE 통신을 통해 Raspberry Pi기반의 도어락을 제어|
 |사용언어 및 개발환경|Raspberry Pi, Node.js, Flutter, MySQL, HTML5. CSS3. Javascript, Bootstrap|
 |느낀 점|- 관련 내용을 논문으로 작성하여 한국멀티미디어학회 추계 논문집에 게재, AIoT 기반의 비접촉 출입 시스템’ 연구 과제의 방향성을 잡아 나가는데에 기여.|
-|참고자료|- 서비스 링크: - Github 링크: [https://github.com/shinyena/doorlock]|
+|참고자료|- 서비스 링크: - Github 링크: https://github.com/shinyena/doorlock|
