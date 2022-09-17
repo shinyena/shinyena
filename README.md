@@ -1,14 +1,14 @@
 # 신예나(Daisy)
 
 
-## About Me
+### About Me
 - Java와 Spring Framework를 이용한 백엔드 개발에 관심을 가지고 있는 주니어 개발자
 - DevOps에 관심을 갖고 Cloud, CI/CD 공부 중인 개발자
 
-## Skill Set
+### Skill Set
 - skill
 
-## Project Experience
+### Project Experience
 |프로젝트 명|레스토랑 모바일 예약 프로그램|
 |:---:|:---|
 |**작업 기간**|2022.01~2021.02|
