@@ -10,7 +10,8 @@
 - Gachon University, Computer Science and Engineering (2018.03~2022.02)
 
 ### 🗂 Project Experience
-- [레스토랑 모바일 예약 프로그램](https://github.com/shinyena/sushi) (2022.01~2021.02)
+- [설문조사 기반 데이터 공유 플랫폼]() (2022.09~2022.12)
+- [레스토랑 모바일 예약 프로그램](https://github.com/shinyena/sushi) (2022.01~2022.02)
 - [딥러닝 기반의 IoT 택배 도난 감지 시스템]() (2021.03~2021.06)
 - [BLE 기반의 모바일 출입통제 시스템](https://github.com/shinyena/doorlock) (2020.09~2020.12)
 - [어린이집 홍보 웹페이지](https://github.com/shinyena/pulee1076) (2020.10~2020.11)
