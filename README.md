@@ -1,8 +1,8 @@
 # 신예나(Daisy)
 
 ### 👩🏻 About Me
-- Java와 Spring Framework, AWS를 이용한 백엔드 개발을 할 수 있는 주니어 개발자
-- DevOps에 관심을 갖고 Cloud, Container, CI/CD 공부 중 입니다
+<!-- - Java와 Spring Framework, AWS를 이용한 백엔드 개발을 할 수 있는 주니어 개발자
+- DevOps에 관심을 갖고 Cloud, Container, CI/CD 공부 중 입니다 -->
 
 ### 🖊 Study At
 - Gachon Kakao Enterprise SW Academy (2022.09~)
