@@ -16,4 +16,4 @@
 - [어린이집 홍보 웹페이지](https://github.com/shinyena/pulee1076) (2020.10~2020.11)
 
 ### 🏆 Algorithm Level
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yena5790)](https://solved.ac/yena5790)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yena5790)](https://solved.ac/yena5790) -->
