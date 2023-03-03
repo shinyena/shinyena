@@ -10,6 +10,7 @@
 - Gachon University, Computer Science and Engineering (2018.03~2022.02)
 
 ### 🗂 Project Experience
+- [메시지 분배 발송 솔루션](https://github.com/Send-Rabbit-Team/RNS-Spring) (2023.01~2023.02)
 - [설문조사 기반 데이터 공유 플랫폼](https://github.com/shinyena/survey_platform) (2022.09~2022.12)
 - [레스토랑 모바일 예약 프로그램](https://github.com/shinyena/sushi) (2022.01~2022.02)
 - [딥러닝 기반의 IoT 택배 도난 감지 시스템]() (2021.03~2021.06)
