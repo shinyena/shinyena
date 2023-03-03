@@ -5,7 +5,7 @@
 - DevOps에 관심을 갖고 Cloud, Container, CI/CD 공부 중 입니다 -->
 
 ### 🖊 Study At
-- Gachon Kakao Enterprise SW Academy (2022.09~)
+- Gachon Kakao Enterprise SW Academy (2022.09~2023.02)
 - Gachon Smart Network Service Lab (2020.07~2021.06)
 - Gachon University, Computer Science and Engineering (2018.03~2022.02)
 
